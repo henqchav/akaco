@@ -1,1 +1,2 @@
 # akaco
+#confirma socio
